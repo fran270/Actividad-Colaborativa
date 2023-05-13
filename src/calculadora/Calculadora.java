@@ -29,7 +29,7 @@ public class Calculadora {
     return resultado1();
   }
 
-private int resultado1() {
+    private int resultado1() {
 	return resultado;
 }
 
